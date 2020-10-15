@@ -9,7 +9,7 @@
 
 ## Configuration
 - Configure the storage account and state backend
-bash```
+```bash
 storage_account_name
 container_name
 access_key
